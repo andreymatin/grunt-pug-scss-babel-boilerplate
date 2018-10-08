@@ -1,0 +1,29 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "new page",
+  "main": "index.html",
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-pug": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.",
+  "license": "ISC"
+}
